@@ -1,5 +1,7 @@
 
-<p align="center">💞️ Apaixonado pela tecnologia, educação e por mudas vidas atravês da programação. <br><br> Estudante de Ciência da Computação, com enfâse em ser um desenvolvedor Full Stack. A cada dia aprendendo algo novo e resolvendo grandes problemas com soluções práticas, afinal não é a linguagem de programação que define o programador, mas sim sua lógica.</p>&nbsp;
+<h4 align="center">💞️ Apaixonado pela tecnologia, educação e por mudas vidas atravês da programação. </h4>&nbsp;
+<p align="center">Estudante de Ciência da Computação, com enfâse em ser um desenvolvedor Full Stack. A cada dia aprendendo algo novo e resolvendo grandes problemas com soluções práticas, afinal não é a linguagem de programação que define o programador, mas sim sua lógica.</p>&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielAzevedoprog&theme=radical&mode=weekly" />
