@@ -1,6 +1,6 @@
 
 <h4 align="center">💞️ Apaixonado pela tecnologia, educação e por mudas vidas atravês da programação. </h4>&nbsp;
-<p align="center">Estudante de Ciência da Computação, com enfâse em ser um desenvolvedor Full Stack. A cada dia aprendendo algo novo e resolvendo grandes problemas com soluções práticas, afinal não é a linguagem de programação que define o programador, mas sim sua lógica.</p>&nbsp;
+<p align="center">Apaixonado pela tecnologia, hardwares e programação. A cada dia aprendendo algo novo e resolvendo grandes problemas com soluções práticas, afinal não é a linguagem de programação que define o programador, mas sim sua lógica. Sou proativo, curioso e criativo, buscando sempre o melhor dentro de cada situação, com pensamento empático e muita determinação.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
