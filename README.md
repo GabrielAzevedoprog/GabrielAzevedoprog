@@ -1,10 +1,5 @@
-<h2 align="center">You're welcome to my github</h2>
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-###
-
-<p align="center">Passionate about technology, hardware and programming. Every day I learn something new and solve big problems with practical solutions. After all, it's not the programming language that defines a programmer, but their logic.</p>
-
-###
 
 <br clear="both">
 
